@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samvardhan163&show_icons=true&locale=en" alt="samvardhan163" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samvardhan163&" alt="samvardhan163" /></p>
+
+ ![Snake animation](https://github.com/samvardhan163/samvardhan163/blob/output/github-contribution-grid-snake.svg)
